@@ -139,11 +139,27 @@ header {
   letter-spacing: 1px;
   margin: 0;
 }
+/* @media (max-width: 1024px) {
+  .content {
+    padding: 62px;
+    width: 66%;
+    height: 10%;
+  }
+  .content h1 {
+    font-size: 27px;
+  }
+  .content p {
+    font-size: 17px;
+    width: 100%;
+    word-spacing: 0px;
+    letter-spacing: 0px;
+  }
+} */
 @media (max-width: 768px) {
   .content {
     padding: 62px;
     width: 66%;
-    height: 40%;
+    height: 33%;
   }
   .content h1 {
     font-size: 27px;
@@ -159,7 +175,7 @@ header {
   .content {
     padding: 32px;
     width: 80%;
-    height: 40%;
+    height: 35%;
   }
   .content h1 {
     margin-top: 10%;
