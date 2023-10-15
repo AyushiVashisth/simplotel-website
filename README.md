@@ -78,9 +78,9 @@ The project comprises a webpage titled 'Simplotel,' featuring a sleek and respon
 </br>
 </br>
 <div>
-   <img width="33%" src="https://github.com/AyushiVashisth/simplotel-website/assets/107119119/af45f73b-9f30-480b-b7bf-309f0e4b820e)" alt="github">
-  <img  width="33%" src="https://github.com/AyushiVashisth/simplotel-website/assets/107119119/afceedc8-2d76-4f8c-bc6c-74be60c4bf6c" alt="vscode">
-  <img  width="33%" src="https://github.com/AyushiVashisth/simplotel-website/assets/107119119/870d822b-194a-4617-a99b-9dbfffbf5d15" alt="vscode">
+   <img width="31%" src="https://github.com/AyushiVashisth/simplotel-website/assets/107119119/af45f73b-9f30-480b-b7bf-309f0e4b820e)" alt="github">
+  <img  width="31%" src="https://github.com/AyushiVashisth/simplotel-website/assets/107119119/afceedc8-2d76-4f8c-bc6c-74be60c4bf6c" alt="vscode">
+  <img  width="31%" src="https://github.com/AyushiVashisth/simplotel-website/assets/107119119/870d822b-194a-4617-a99b-9dbfffbf5d15" alt="vscode">
 </div>
 
 <h2 align="center">Project Overview</h2>
