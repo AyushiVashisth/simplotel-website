@@ -67,14 +67,24 @@ The project comprises a webpage titled 'Simplotel,' featuring a sleek and respon
 ## Mobile
 ![Screenshot 2023-10-14 201621](https://github.com/AyushiVashisth/simplotel-website/assets/107119119/c856f142-3a61-4855-9786-76099bc9a07b)
 ![Screenshot 2023-10-14 201633](https://github.com/AyushiVashisth/simplotel-website/assets/107119119/ed5fe11a-fc70-4055-8890-2427718299a9)
-![Screenshot 2023-10-14 201645](https://github.com/AyushiVashisth/simplotel-website/assets/107119119/639cf31a-bed8-43a5-ba7c-ba87e3b960ca)
-![Screenshot 2023-10-14 201654](https://github.com/AyushiVashisth/simplotel-website/assets/107119119/5dee0013-4912-42e8-8cb9-d0f511bb33ef)
-![Screenshot 2023-10-14 201715](https://github.com/AyushiVashisth/simplotel-website/assets/107119119/05e29d92-7224-457a-be24-6c8e7285435d)
-![Screenshot 2023-10-14 201725](https://github.com/AyushiVashisth/simplotel-website/assets/107119119/2a2a7eaa-4603-41b4-8532-19833626f8c0)
-![Screenshot 2023-10-14 201736](https://github.com/AyushiVashisth/simplotel-website/assets/107119119/cd5af078-5e82-4df2-9f8b-1d28595f08e0)
-
+</br>
+</br>
+</br>
+<div>
+   <img width="49%" src="https://github.com/AyushiVashisth/simplotel-website/assets/107119119/6e7610eb-b1c8-4465-b78b-5773b25fa90a" alt="github">
+  <img  width="49%" src="https://github.com/AyushiVashisth/simplotel-website/assets/107119119/1ec943d6-2334-4af3-86bb-6a10f0fac951" alt="vscode">
+</div>
+</br>
+</br>
+</br>
+<div>
+   <img width="33%" src="https://github.com/AyushiVashisth/simplotel-website/assets/107119119/af45f73b-9f30-480b-b7bf-309f0e4b820e)" alt="github">
+  <img  width="33%" src="https://github.com/AyushiVashisth/simplotel-website/assets/107119119/afceedc8-2d76-4f8c-bc6c-74be60c4bf6c" alt="vscode">
+  <img  width="33%" src="https://github.com/AyushiVashisth/simplotel-website/assets/107119119/870d822b-194a-4617-a99b-9dbfffbf5d15" alt="vscode">
+</div>
 
 <h2 align="center">Project Overview</h2>
+
 Certainly, here's an overview of the project based on the information you've provided:
 
 **Project Name**: Responsive Webpage Development for Interview Assignment
